@@ -80,10 +80,8 @@
         <form>
             <label for="username">Username</label>
             <input type="text" id="username" name="username" required>
-
             <label for="password">Password</label>
             <input type="password" id="password" name="password" required>
-
             <button type="submit">Login</button>
         </form>
         <a href="#" class="signup-link">Don't have an account? Sign up</a>
